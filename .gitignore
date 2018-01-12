@@ -1,0 +1,7 @@
+cmake_install.cmake
+CMakeCache.txt
+GameBOI
+Makefile
+CMakeFiles/GameBOI.dir/build.make
+.vscode/.cmaketools.json
+CMakeFiles/
